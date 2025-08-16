@@ -1,3 +1,4 @@
+<img width="1063" height="259" alt="Screenshot 2025-08-16 010245" src="https://github.com/user-attachments/assets/8e589b76-0fdb-435e-a512-fa3fd0a1739c" />
 # -CHAT-APPLICATION
 
 I developed a real-time chat room interface where users can type messages and see them displayed instantly on the screen. Although it appears to be a simple local chat interface (without a backend server), it demonstrates frontend chat UI design and message handling using HTML, CSS, and JavaScript.
